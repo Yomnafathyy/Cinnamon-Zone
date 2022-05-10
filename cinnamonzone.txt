@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<meta charset=utf-8">
+<title> Cinnamon Zone </title>
+</head>
+<body>
+<center> <h1 class="tm-page-header"> <b>Cinnamon Zone </b> </h1> </center>
+<p align="center"> <img src="cinna.jpg" alt="Error" height="500px">
+<br>
+<center> <h1> Cinnabon Menu </h1> </center>
+<table style="width:50%" align="center">
+<colgroup>
+<col span="4" style="background-color: peru">
+<tr> 
+<th style="height:50px"> </th>
+<th> Small </th>
+<th> Meduim </th>
+<th> Large </th>
+</tr>
+<tr style="height:50px"> 
+<th> Classic </th>
+<td> 30 </td>
+<td> 40 </td>
+<td> 50 </td>
+</tr>
+<tr style="height:50px">  
+<th> Caramel </th>
+<td> 35 </td>
+<td> 45 </td>
+<td> 55 </td>
+</tr>
+<tr style="height:50px"> <th> Chocolate </th>
+<td> 35 </td>
+<td> 45 </td>
+<td> 55 </td>
+</tr>
+<tr style="height:50px"> <th> Blueberry </th>
+<td> 35 </td>
+<td> 45 </td>
+<td> 55 </td>
+</tr>
+<tr style="height:50px">
+<th> Strawberry </th>
+<td> 35 </td>
+<td> 45 </td>
+<td> 55 </td>
+</tr>
+<tr style="height:50px">
+<th> Coconut </th>
+<td> 35 </td>
+<td> 45 </td>
+<td> 55 </td>
+</tr>
+<tr style="height:50px">
+<th> Pecan Caramel </th>
+<td> 45 </td>
+<td> 55 </td>
+<td> 65 </td>
+</tr>
+<tr style="height:50px">
+<th> Lotus </th>
+<td> 45 </td>
+<td> 55 </td>
+<td> 65 </td>
+</tr>
+</table>
+<center> <h1> Extras </h1> </center>
+<table style="width:50%" align="center">
+<colgroup>
+<col span="4"  style="background-color: peru">
+<tr style="height:50px">
+<th> Classic Cream </th>
+<th> Chocolate </th>
+<th> Hazelnut </th>
+<th> Pecan </th>
+</tr>
+<tr style="height:50px">
+<td> 10 </td>
+<td> 10 </td>
+<td> 12 </td>
+<td> 15 </td>
+</tr>
+</table>
+<div class= "container">
+<div class= "glass">
+<img src="img-1.jpg" height="200px" width="450px">
+</div>
+<div class= "glass">
+<img src="img-2.jpg" height="200px" width="450px">
+</div>
+<div class= "glass">
+<img src="img-3.jpg" height="200px" width="450px">
+</div>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<h1> About Us </h1>
+<p> <b> We bake your order with love in Cinnamon Zone. </p> </b>
+<p> <b> The order takes 1 hour to be ready. </p> </b>
+<p> <b> Cinnamon Zone has expanded in the Egyptian market, the chain has currently 3 stores in: Tanta, Cairo, Aswan </p> </b>
+<h1> Contact US </h1>
+<p> Tel: 0120140120140 </p>
+<p> Or from our website </p>
+<h3> Thank You. </h3>
+</body>
+</html>
